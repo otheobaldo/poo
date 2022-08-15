@@ -1,0 +1,52 @@
+7. Gato
+
+8. int soma(int primeiroNum, int segundoNum, int terceiroNum);
+int soma(int primeiroNum, int segundoNum, int terceiroNum)
+{
+    return primeiroNum + segundoNum + terceiroNum;
+}
+
+9. 
+char letra(double argumento)
+{
+    if (argumento > 0)
+        return 'P';
+    else
+        return 'N';
+}
+
+10. Não
+
+11. Ambas precisam ter uma ideia de caixa preta, não é necessário saber o que está 
+na função, somente quais parametros precisam entrar e o que vai sair da função. 
+Elas organizam o código. Somente um valor sai da função, mais podem entrar mais 
+paramentros em função. Uma função do usuário é local ao arquivo. A função do 
+usuário precisa ser definida.
+
+12. bool emOrdem(int arg1, int arg2, int arg3)
+{
+    return ((arg1 <= arg2) && (arg2 <= arg3));
+}
+
+13. bool par(int numero);
+{
+    return (numero%2 == 0);
+}
+
+14. bool digito(char argumento);
+{
+    return (('0' <= argumento) && (argumento <= '9'));
+}
+
+15. 
+Olá 
+Adeus
+Mais uma vez
+Ola
+Fim do programa
+
+16. O programa iria dividir por zero e daria erro
+17. void produto(int n1, int n2, int n3)
+{
+    cout << 
+}
