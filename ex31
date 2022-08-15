@@ -1,0 +1,19 @@
+31. 1024 1024
+32. 1024 1024
+33. o loop é infinito
+34. a. while
+b. while/for
+c. while
+d. for
+35. 10  13  16  ...
+36. O break encerra o loop. Quando se quer finalizar um loop, dentro de um if
+37. 1 10
+2 9
+3 8
+4 7
+5 6
+6 5
+7 4
+8 3
+9 2
+10 1
